@@ -1,0 +1,19 @@
+{
+  "name": "dovechat-electron",
+  "version": "1.0.0",
+  "description": "dovechat powerful by electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dovechat",
+    "electron"
+  ],
+  "author": "dovezhang",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
+}
